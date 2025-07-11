@@ -1,8 +1,6 @@
 <div align="center">
   <br />
-    <a href="https://youtu.be/wm5gMKuwSYk?feature=shared" target="_blank">
-   
-    </a>
+  
   <br />
 
   <div>
@@ -13,9 +11,7 @@
 
   <h3 align="center">Next.js 14 AI Prompt Sharing Application</h3>
 
-   <div align="center">
-     Build this project step by step with our detailed tutorial on <a href="https://www.youtube.com/@javascriptmastery/videos" target="_blank"><b>JavaScript Mastery</b></a> YouTube. Join the JSM family!
-    </div>
+ 
 </div>
 
 ## 📋 <a name="table">Table of Contents</a>
