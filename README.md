@@ -75,8 +75,8 @@ Make sure you have the following installed on your machine:
 **Cloning the Repository**
 
 ```bash
-git clone https://github.com/adrianhajdin/project_next_13_ai_prompt_sharing.git
-cd project_next_13_ai_prompt_sharing
+[git clone https://github.com/adrianhajdin/project_next_13_ai_prompt_sharing.git
+cd project_next_13_ai_prompt_sharing](https://github.com/mr-Ayalk/AI-Prompt-Landing-Page.git)
 ```
 
 **Installation**
