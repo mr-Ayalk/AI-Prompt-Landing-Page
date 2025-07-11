@@ -1,7 +1,7 @@
 <div align="center">
   <br />
   
-  <br />
+
 
   <div>
     <img src="https://img.shields.io/badge/-Next_JS-black?style=for-the-badge&logoColor=white&logo=nextdotjs&color=000" alt="Next.js" />
