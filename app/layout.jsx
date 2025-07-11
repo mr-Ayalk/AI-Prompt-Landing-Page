@@ -4,8 +4,8 @@ import Nav from "@components/Nav";
 import Provider from "@components/Provider";
 
 export const metadata = {
-  title: "Promptopia",
-  description: "Discover & Share AI Prompts",
+  title: "Promptly",
+  description: "Promptly: Your go-to platform for generating creative ideas and prompts quickly and effortlessly.",
 };
 
 const RootLayout = ({ children }) => (
