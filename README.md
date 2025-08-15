@@ -1,6 +1,6 @@
 `
 AI-Prompt-Landing-Page ` <br/><br/>
-****Try it—you'll love it  😍😍! You can watch the live project at: **  https://ai-prompt-landing-page.vercel.app/**``<br/><br/>
+****Try it—you'll love it  😍😍! You can watch the live project at: **  https://ai-prompt-landing-page.vercel.app/``<br/><br/>
 "Promptly:** Your go-to platform for generating creative ideas and prompts quickly and effortlessly."**
 
 <div align="center">
